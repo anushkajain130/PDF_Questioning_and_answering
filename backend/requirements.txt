@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+fitz
+transformers
+torch
+python-multipart
+fastapi-middleware
+langchain
+sentence-transformers
+requests
+numpy
+PyPDF2
